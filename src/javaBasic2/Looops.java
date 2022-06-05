@@ -2,6 +2,7 @@ package javaBasic2;
 
 public class Looops {
     public static void main(String[] args) {
+        //for loop
         for (int i=1;i<=10;i++){
             System.out.println("Yash" +i);
         }
@@ -14,10 +15,17 @@ public class Looops {
             }
             System.out.println();
         }
+        //whilw
         int index=1;
         while (index<=5){
             System.out.println("Yash while"+index);
             index++;
         }
+        // do while
+        int a=1;
+        do {
+            System.out.println("Hello yash Do while loop");
+            a++;
+        } while (a<=2);
     }
 }
