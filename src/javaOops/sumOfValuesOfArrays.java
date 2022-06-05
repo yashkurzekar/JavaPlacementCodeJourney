@@ -9,7 +9,7 @@ public class sumOfValuesOfArrays {
         System.out.println("Please Enter a size of array");
         int size = sc.nextInt();
         int sum = 0;
-        int arr1[] = new int[size];
+        int arr1 [] = new int[size];
         System.out.println("Enter elements in array");
         for(int i=0;i<size;i++){
             arr1[i]= sc.nextInt();
