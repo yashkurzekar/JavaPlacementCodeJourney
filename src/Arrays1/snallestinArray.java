@@ -26,5 +26,6 @@ public class snallestinArray {
 
         }
         System.out.println("Smallest element is "+arr[0]);
+        System.out.println("Thank You");
     }
 }
