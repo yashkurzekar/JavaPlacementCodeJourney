@@ -1,6 +1,8 @@
 package Array2;
 //https://leetcode.com/problems/trapping-rain-water
 public class maxWater  {
+
+  
 static int rainWater(int [] a){
     int ans = 0;
     int leftMx = 0, rightMax = 0;
