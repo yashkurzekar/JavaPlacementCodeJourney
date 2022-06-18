@@ -7,7 +7,8 @@ public class PrefixSum {
 
     static boolean subArrayWithZeroSum(int [] a) {
         int n = a.length;;
-        Set<Integer> set = new HashSet<>(); //created set
+        Set<Integer> set = new HashSet<>(); //created set, set me same value do baar save ni hoti h and continues form me value store ni hoti h
+
         int sum=0;
         for (int i=0;i<n;i++) {
             sum+=a[i];
