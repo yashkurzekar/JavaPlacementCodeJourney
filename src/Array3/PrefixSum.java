@@ -22,5 +22,6 @@ public class PrefixSum {
     public static void main(String[] args) {
      int a[] = {2,3,1,-4,3,-2};
         System.out.println(subArrayWithZeroSum(a));
+        System.out.println("Code By Yash");
     }
 }
