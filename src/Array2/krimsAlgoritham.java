@@ -1,5 +1,5 @@
 package Array2;
-
+//Krims Algo
 public class krimsAlgoritham {
     static  int largestSumSubArray(int a[]){
         int current = 0;
