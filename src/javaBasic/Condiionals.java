@@ -54,6 +54,7 @@ public class Condiionals {
 //        }
 
         //Switch Case
+       
         int number = 2;
 
         switch(number){
