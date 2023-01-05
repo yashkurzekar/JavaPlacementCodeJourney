@@ -32,6 +32,7 @@ public class Person {
         person1 p1 = new person1();
         person1 p2 = new person1();
         person1 p3 = new person1("Yash",24);
+        person1 p4 = new person1();
 
         System.out.println(p1.count);
         System.out.println(p3.name);
